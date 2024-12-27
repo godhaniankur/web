@@ -28,7 +28,7 @@ const Contactus = () => {
                             </label>
                             <label>
                                 <p className=' text-lg font-medium text-white px-1.5'>Message</p>
-                                <textarea rows={10} placeholder='Plze Write Your Important message For Company' className='w-full p-1.5 rounded-md outline-none'/>
+                                <textarea rows={10} placeholder='Your Important message For Company' className='w-full p-1.5 rounded-md outline-none'/>
                             </label>
                             <div className=' w-full bg-orange-400 rounded-md p-1.5 text-center text-white font-semibold'>
                                 <button type="submit">Submit</button>
